@@ -2,7 +2,7 @@
 
 class Captcha
 {
-    protected $secretKey = '0xEA1362E9066a745c83356E4A03d4D00aC2628Fb5';
+    protected $secretKey = '';
     protected $captchaVerificationEndpoint = 'https://hcaptcha.com/siteverify';
 
     public function checkCaptcha($response)

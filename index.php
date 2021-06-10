@@ -18,7 +18,7 @@
                 <input type="email" name="email" required class="w-full px-3 py-2 border border-gray-200">
             </div>
             <div class="mb-4 mx-auto">
-                <div class="h-captcha" data-sitekey="125bd6ff-6338-4399-85f0-c5ab1d5deb1d"></div>
+                <div class="h-captcha" data-sitekey=""></div>
             </div>
             <button type="submit" class="bg-blue-600 text-white py-3">Subscribirme</button>
         </form>
